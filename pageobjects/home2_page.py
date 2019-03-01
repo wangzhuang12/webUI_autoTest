@@ -83,10 +83,10 @@ class Home2Page(BasePage):
         self.click(*self.control_center_page_loc)
         self.switch_window(self.window_handles()[1])
     #验证
-    # def logincontrol(self, password):
-    #     self.switch_window(self.window_handles()[1])
-    #     self.sendkey(password, *self.password1_page_input_search_loc)
-    #     self.click(*self.login1_page_click_search_loc)
+    def logincontrol(self, password):
+        self.switch_window(self.window_handles()[1])
+        self.sendkeys(password, *self.password1_page_input_search_loc)
+        self.click(*self.login1_page_click_search_loc)
 
     #论坛点击
     def forum_link(self):

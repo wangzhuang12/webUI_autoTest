@@ -1,0 +1,30 @@
+2019-03-01 13:35:21,304 -BrowserEngine -INFO -you had select Chrome browser
+2019-03-01 13:35:21,304 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-03-01 13:35:24,020 -BrowserEngine -INFO -Start Chrome browser.
+2019-03-01 13:35:25,644 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-03-01 13:35:26,777 -BrowserEngine -INFO -Maximise the current window.
+2019-03-01 13:35:26,779 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-03-01 13:35:26,926 -Basepage -INFO -输入内容admin
+2019-03-01 13:35:27,254 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-01 13:35:27,367 -Basepage -INFO -输入内容123456
+2019-03-01 13:35:27,703 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-01 13:35:27,831 -Basepage -INFO -The element 登录 was clicked .
+2019-03-01 13:35:29,344 -Basepage -INFO -The element  was clicked .
+2019-03-01 13:35:29,663 -Basepage -INFO -The element 删除 was clicked .
+2019-03-01 13:35:32,618 -Basepage -INFO -The element 管理中心 was clicked .
+2019-03-01 13:35:32,624 -Basepage -INFO -successful to switch .
+2019-03-01 13:35:43,797 -Basepage -INFO -The element 论坛 was clicked .
+2019-03-01 13:35:45,867 -Basepage -INFO -switch main window
+2019-03-01 13:35:46,059 -Basepage -INFO -The element 添加新版块 was clicked .
+2019-03-01 13:35:46,135 -Basepage -INFO -Clear text in input boxbefore typing.
+2019-03-01 13:35:46,468 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-01 13:35:46,560 -Basepage -INFO -输入内容默认板块
+2019-03-01 13:35:46,863 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-01 13:35:47,189 -Basepage -INFO -successful to switch .
+2019-03-01 13:35:47,246 -Basepage -INFO -Closing and quiting browser
+2019-03-01 13:35:49,251 -Basepage -INFO -successful to switch .
+2019-03-01 13:35:51,918 -Basepage -INFO -输入内容wzz
+2019-03-01 13:35:52,253 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-01 13:35:52,355 -Basepage -INFO -输入内容123456
+2019-03-01 13:35:52,664 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-01 13:35:52,779 -Basepage -INFO -The element 登录 was clicked .

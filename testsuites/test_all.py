@@ -1,12 +1,15 @@
 import unittest
 import os
+import HTMLTestRunner
+import sys
 from testsuites.test_yongli1 import Test_yongli1
 from testsuites.test_yongli2 import Test_yongli2
 from testsuites.test_yongli3 import Test_yongli3
 from testsuites.test_yongli4 import Test_yongli4
-import HTMLTestRunner
+
 import time
 
+sys.path.append("D:\\temp\\pyth.project\\Discuz\\")
 
 now = time.strftime('%Y%m%d%H%M',time.localtime(time.time()))
 reporter_path = os.path.dirname(os.path.abspath('.'))+'/reporter/'
