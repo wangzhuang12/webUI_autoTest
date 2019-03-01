@@ -1,0 +1,92 @@
+2019-02-28 16:51:36,217 -BrowserEngine -INFO -you had select Chrome browser
+2019-02-28 16:51:36,217 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-02-28 16:51:38,546 -BrowserEngine -INFO -Start Chrome browser.
+2019-02-28 16:51:40,219 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-02-28 16:51:41,342 -BrowserEngine -INFO -Maximise the current window.
+2019-02-28 16:51:41,343 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-02-28 16:51:41,472 -Basepage -INFO -输入内容admin
+2019-02-28 16:51:41,816 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-28 16:51:41,943 -Basepage -INFO -输入内容123456
+2019-02-28 16:51:42,291 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-28 16:51:42,401 -Basepage -INFO -The element 登录 was clicked .
+2019-02-28 16:51:43,774 -Basepage -INFO -The element  was clicked .
+2019-02-28 16:51:44,134 -Basepage -INFO -The element 删除 was clicked .
+2019-02-28 16:51:47,112 -Basepage -INFO -The element 管理中心 was clicked .
+2019-02-28 16:51:47,119 -Basepage -INFO -successful to switch .
+2019-02-28 16:51:58,304 -Basepage -INFO -The element 论坛 was clicked .
+2019-02-28 16:52:00,371 -Basepage -INFO -switch main window
+2019-02-28 16:52:00,419 -Basepage -INFO -successful to switch .
+2019-02-28 16:52:00,475 -Basepage -INFO -Closing and quiting browser
+2019-02-28 16:52:03,476 -Basepage -ERROR -Failed ro return
+2019-02-28 16:52:03,477 -Basepage -ERROR -找不到页面元素
+2019-02-28 16:52:03,478 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 16:52:03,480 -Basepage -ERROR -Failed to switch main window with Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 16:52:03,481 -Basepage -ERROR -找不到页面元素
+2019-02-28 16:52:03,482 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 16:52:03,483 -Basepage -ERROR -找不到页面元素
+2019-02-28 16:52:03,484 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 16:52:03,484 -Basepage -ERROR -Failed to clear in input box with 'NoneType' object has no attribute 'clear'
+2019-02-28 16:52:03,485 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 16:52:03,486 -Basepage -ERROR -找不到页面元素
+2019-02-28 16:52:03,487 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 16:52:03,488 -Basepage -ERROR -Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 16:52:03,489 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 16:52:03,490 -Basepage -ERROR -找不到页面元素
+2019-02-28 16:52:03,491 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 16:52:03,492 -Basepage -ERROR -Failed to awitch
+2019-02-28 16:52:03,494 -Basepage -ERROR -Failed ro return
+2019-02-28 16:52:03,495 -Basepage -ERROR -找不到页面元素
+2019-02-28 16:52:03,496 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 16:52:03,497 -Basepage -ERROR -Failed to switch main window with Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 16:52:03,498 -Basepage -ERROR -找不到页面元素
+2019-02-28 16:52:03,499 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 16:52:03,500 -Basepage -ERROR -Failed to awitch
+2019-02-28 16:52:03,502 -Basepage -ERROR -Faild to quit the browser with Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+

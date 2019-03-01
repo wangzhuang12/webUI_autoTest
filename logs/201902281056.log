@@ -1,0 +1,18 @@
+2019-02-28 10:56:12,493 -BrowserEngine -INFO -you had select Chrome browser
+2019-02-28 10:56:12,493 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-02-28 10:56:15,140 -BrowserEngine -INFO -Start Chrome browser.
+2019-02-28 10:56:18,899 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-02-28 10:56:20,238 -BrowserEngine -INFO -Maximise the current window.
+2019-02-28 10:56:20,239 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-02-28 10:56:20,427 -Basepage -INFO -输入内容admin
+2019-02-28 10:56:20,825 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-28 10:56:20,991 -Basepage -INFO -输入内容123456
+2019-02-28 10:56:21,389 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-28 10:56:21,573 -Basepage -INFO -The element 登录 was clicked .
+2019-02-28 10:56:26,502 -Basepage -INFO -The element  was clicked .
+2019-02-28 10:56:27,112 -Basepage -INFO -The element 删除 was clicked .
+2019-02-28 10:56:30,175 -Basepage -INFO -The element 管理中心 was clicked .
+2019-02-28 10:56:30,180 -Basepage -INFO -successful to switch .
+2019-02-28 10:56:41,340 -Basepage -INFO -The element 论坛 was clicked .
+2019-02-28 10:56:52,461 -Basepage -ERROR -找不到页面元素
+2019-02-28 10:56:52,774 -Basepage -INFO -Had take screenshot and save to folder :/screenshots

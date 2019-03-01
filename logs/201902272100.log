@@ -1,0 +1,111 @@
+2019-02-27 21:00:26,320 -BrowserEngine -INFO -you had select Chrome browser
+2019-02-27 21:00:26,321 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-02-27 21:00:28,578 -BrowserEngine -INFO -Start Chrome browser.
+2019-02-27 21:00:30,840 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-02-27 21:00:31,960 -BrowserEngine -INFO -Maximise the current window.
+2019-02-27 21:00:31,961 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-02-27 21:00:32,094 -Basepage -INFO -输入内容wzz
+2019-02-27 21:00:32,445 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:00:32,575 -Basepage -INFO -输入内容123456
+2019-02-27 21:00:32,906 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:00:33,041 -Basepage -INFO -The element 登录 was clicked .
+2019-02-27 21:00:42,672 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:00:48,682 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:00:48,682 -Basepage -ERROR -Failed to click th element with 'NoneType' object has no attribute 'click'
+2019-02-27 21:00:54,693 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:01:00,704 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:01:00,704 -Basepage -ERROR -Failed to click th element with 'NoneType' object has no attribute 'click'
+2019-02-27 21:01:08,716 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:01:14,727 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:01:14,727 -Basepage -ERROR -Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 21:01:20,738 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:01:26,752 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:01:32,762 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:01:38,774 -Basepage -ERROR -Failed to switch main window with Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:01:44,786 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:01:50,798 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:01:50,798 -Basepage -ERROR -Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 21:01:56,807 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:01:57,059 -Basepage -ERROR -Failed to awitch
+2019-02-27 21:02:03,069 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:02:09,079 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:02:09,079 -Basepage -ERROR -Failed to click th element with 'NoneType' object has no attribute 'click'
+2019-02-27 21:02:35,090 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:02:41,103 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:02:43,166 -BrowserEngine -INFO -you had select Chrome browser
+2019-02-27 21:02:43,166 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-02-27 21:02:45,327 -BrowserEngine -INFO -Start Chrome browser.
+2019-02-27 21:02:47,932 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-02-27 21:02:49,058 -BrowserEngine -INFO -Maximise the current window.
+2019-02-27 21:02:49,060 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-02-27 21:02:49,243 -Basepage -INFO -输入内容admin
+2019-02-27 21:02:49,623 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:02:49,738 -Basepage -INFO -输入内容123456
+2019-02-27 21:02:50,096 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:02:50,231 -Basepage -INFO -The element 登录 was clicked .
+2019-02-27 21:02:51,692 -Basepage -ERROR -Failed to click th element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:02:51,861 -Basepage -INFO -The element  was clicked .
+2019-02-27 21:02:51,918 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:02:51,920 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:02:51,921 -Basepage -ERROR -Failed to click th element with 'NoneType' object has no attribute 'click'
+2019-02-27 21:02:51,923 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:02:51,937 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:02:51,937 -Basepage -ERROR -Failed to click th element with 'NoneType' object has no attribute 'click'
+2019-02-27 21:02:53,939 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:02:53,942 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:02:53,942 -Basepage -ERROR -Failed to click th element with 'NoneType' object has no attribute 'click'
+2019-02-27 21:02:55,947 -Basepage -ERROR -Failed to return window handle for Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:02:58,008 -BrowserEngine -INFO -you had select Chrome browser
+2019-02-27 21:02:58,008 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-02-27 21:03:00,342 -BrowserEngine -INFO -Start Chrome browser.
+2019-02-27 21:03:00,979 -BrowserEngine -INFO -you had select Chrome browser
+2019-02-27 21:03:00,979 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-02-27 21:03:03,417 -BrowserEngine -INFO -Start Chrome browser.

@@ -1,0 +1,11 @@
+2019-02-27 21:05:35,753 -BrowserEngine -INFO -you had select Chrome browser
+2019-02-27 21:05:35,753 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-02-27 21:05:38,021 -BrowserEngine -INFO -Start Chrome browser.
+2019-02-27 21:05:39,859 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-02-27 21:05:40,979 -BrowserEngine -INFO -Maximise the current window.
+2019-02-27 21:05:40,981 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-02-27 21:05:41,116 -Basepage -INFO -输入内容wzz
+2019-02-27 21:05:41,464 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:05:41,563 -Basepage -INFO -输入内容123456
+2019-02-27 21:05:41,874 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:05:41,995 -Basepage -INFO -The element 登录 was clicked .

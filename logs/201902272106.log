@@ -1,0 +1,160 @@
+2019-02-27 21:06:30,293 -BrowserEngine -INFO -you had select Chrome browser
+2019-02-27 21:06:30,294 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-02-27 21:06:32,503 -BrowserEngine -INFO -Start Chrome browser.
+2019-02-27 21:06:34,341 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-02-27 21:06:44,361 -BrowserEngine -INFO -Maximise the current window.
+2019-02-27 21:06:44,363 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-02-27 21:07:14,091 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:07:18,155 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:07:18,157 -Basepage -ERROR -Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 21:07:24,183 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:07:30,204 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:07:36,215 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:07:36,215 -Basepage -ERROR -Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 21:07:42,227 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:07:48,235 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:07:54,245 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:07:54,245 -Basepage -ERROR -Failed to click th element with 'NoneType' object has no attribute 'click'
+2019-02-27 21:08:00,252 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:08:06,259 -Basepage -ERROR -Failed to take screenshot! Message: chrome not reachable
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:08:08,315 -BrowserEngine -INFO -you had select Chrome browser
+2019-02-27 21:08:08,315 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-02-27 21:08:10,638 -BrowserEngine -INFO -Start Chrome browser.
+2019-02-27 21:08:12,931 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-02-27 21:08:14,047 -BrowserEngine -INFO -Maximise the current window.
+2019-02-27 21:08:14,048 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-02-27 21:08:14,154 -Basepage -INFO -输入内容admin
+2019-02-27 21:08:14,487 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:08:14,581 -Basepage -INFO -输入内容123456
+2019-02-27 21:08:14,918 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:08:15,024 -Basepage -INFO -The element 登录 was clicked .
+2019-02-27 21:08:16,262 -Basepage -ERROR -Failed to click th element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:08:16,442 -Basepage -INFO -The element  was clicked .
+2019-02-27 21:08:16,739 -Basepage -INFO -The element 删除 was clicked .
+2019-02-27 21:08:17,301 -Basepage -ERROR -Failed to click th element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:08:19,446 -Basepage -INFO -The element 管理中心 was clicked .
+2019-02-27 21:08:19,451 -Basepage -INFO -successful to switch .
+2019-02-27 21:08:30,609 -Basepage -INFO -The element 论坛 was clicked .
+2019-02-27 21:08:33,671 -Basepage -INFO -switch main window
+2019-02-27 21:08:33,848 -Basepage -INFO -The element 添加新版块 was clicked .
+2019-02-27 21:08:33,911 -Basepage -INFO -Clear text in input boxbefore typing.
+2019-02-27 21:08:34,249 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:08:34,337 -Basepage -INFO -输入内容默认板块
+2019-02-27 21:08:34,666 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:08:34,944 -Basepage -ERROR -Failed to click th element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:08:34,947 -Basepage -INFO -successful to switch .
+2019-02-27 21:08:35,003 -Basepage -INFO -Closing and quiting browser
+2019-02-27 21:08:35,008 -Basepage -INFO -successful to switch .
+2019-02-27 21:08:35,698 -Basepage -ERROR -Failed to click th element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:08:38,009 -Basepage -INFO -输入内容wzz
+2019-02-27 21:08:38,334 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:08:38,431 -Basepage -INFO -输入内容123456
+2019-02-27 21:08:38,790 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:08:38,900 -Basepage -INFO -The element 登录 was clicked .
+2019-02-27 21:08:38,904 -Basepage -INFO -successful to switch .
+2019-02-27 21:08:39,472 -Basepage -INFO -输入内容死神
+2019-02-27 21:08:39,823 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:08:39,953 -Basepage -INFO -输入内容123456789123456789
+2019-02-27 21:08:40,286 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:08:42,156 -Basepage -ERROR -Failed to click th element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:08:57,257 -Basepage -INFO -The element  was clicked .
+2019-02-27 21:08:57,484 -Basepage -INFO -输入内容hhhhhffffffff
+2019-02-27 21:08:57,813 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:08:58,095 -Basepage -ERROR -Failed to click th element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:09:00,473 -BrowserEngine -INFO -you had select Chrome browser
+2019-02-27 21:09:00,473 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-02-27 21:09:02,677 -BrowserEngine -INFO -Start Chrome browser.
+2019-02-27 21:09:05,608 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-02-27 21:09:06,726 -BrowserEngine -INFO -Maximise the current window.
+2019-02-27 21:09:06,727 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-02-27 21:09:06,823 -Basepage -INFO -输入内容wzz
+2019-02-27 21:09:07,139 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:09:07,232 -Basepage -INFO -输入内容123456
+2019-02-27 21:09:07,566 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:09:07,673 -Basepage -INFO -The element 登录 was clicked .
+2019-02-27 21:09:08,267 -Basepage -INFO -The element  was clicked .
+2019-02-27 21:09:08,322 -Basepage -INFO -输入内容魔都
+2019-02-27 21:09:08,654 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:09:08,786 -Basepage -INFO -The element  was clicked .
+2019-02-27 21:09:08,790 -Basepage -INFO -successful to switch .
+2019-02-27 21:09:12,981 -Basepage -INFO -The element 魔都 was clicked .
+2019-02-27 21:09:12,987 -Basepage -INFO -successful to switch .
+2019-02-27 21:09:18,266 -Basepage -INFO -successful to switch .
+2019-02-27 21:09:18,563 -Basepage -ERROR -Failed to click th element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:09:23,002 -BrowserEngine -INFO -you had select Chrome browser
+2019-02-27 21:09:23,003 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-02-27 21:09:25,121 -BrowserEngine -INFO -Start Chrome browser.
+2019-02-27 21:09:27,568 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-02-27 21:09:28,688 -BrowserEngine -INFO -Maximise the current window.
+2019-02-27 21:09:28,690 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-02-27 21:09:28,793 -Basepage -INFO -输入内容wzz
+2019-02-27 21:09:29,518 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:09:29,619 -Basepage -INFO -输入内容123456
+2019-02-27 21:09:29,935 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:09:30,053 -Basepage -INFO -The element 登录 was clicked .
+2019-02-27 21:09:31,089 -Basepage -ERROR -Failed to click th element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:09:31,873 -Basepage -ERROR -Failed to click th element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:09:34,544 -Basepage -ERROR -Failed to click th element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 21:09:36,640 -Basepage -INFO -输入内容火影
+2019-02-27 21:09:36,969 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:09:37,073 -Basepage -INFO -输入内容卡卡西
+2019-02-27 21:09:37,382 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:09:37,474 -Basepage -INFO -输入内容六道斑
+2019-02-27 21:09:37,785 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:09:37,858 -Basepage -INFO -输入内容鼬
+2019-02-27 21:09:38,166 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:09:38,231 -Basepage -INFO -switch main window
+2019-02-27 21:09:38,336 -Basepage -INFO -输入内容哈哈哈哈哈哈哈哈
+2019-02-27 21:09:38,659 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-02-27 21:09:38,663 -Basepage -INFO -successful to switch .
+2019-02-27 21:10:41,857 -Basepage -INFO -The element 发起投票 was clicked .
+2019-02-27 21:33:35,044 -Basepage -ERROR -找不到页面元素
+2019-02-27 21:33:36,179 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
