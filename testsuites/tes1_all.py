@@ -1,17 +1,27 @@
-import unittest
+import sys
 import os
+curpath = os.path.abspath(os.path.dirname(__file__))
+rootpath = os.path.split(curpath)[0]
+sys.path.append(rootpath)
+
+
+import unittest
+
 import HTMLTestRunner
 from testsuites.test_yongli1 import Test_yongli1
 from testsuites.test_yongli2 import Test_yongli2
 from testsuites.test_yongli3 import Test_yongli3
 from testsuites.test_yongli4 import Test_yongli4
 import  time
-import sys
-# sys.path.append("D:/temp/pyth.project/Discuz")
+
+
+
+
 
 now = time.strftime('%Y%m%d%H%M',time.localtime(time.time()))
-dir = os.path.dirname(os.path.abspath(__file__))
-reporter_path = os.path.join(dir, "reporter/")
+# dir = os.path.dirname(os.path.abspath(__file__))
+# # reporter_path = os.path.join(dir, "reporter/")
+reporter_path =os.path.dirname(os.path.abspath('.'))+'reporter'
 if not os.path.exists(reporter_path):os.mkdir(reporter_path)
 #设置报告格式
 reporter_name = reporter_path + now+ '_result.html'

@@ -12,9 +12,12 @@ class Logger(object):
 
         #设置文件名字，创建一个handler，用于写入文件
         rq = time.strftime('%Y%m%d%H%M',time.localtime(time.time()))
-        dir = os.path.dirname(os.path.abspath(__file__))
-        # log_path = os.path.join(dir,"/temp/pyth.project/Discuz/logs/")
-        log_path = os.path.join(dir, "/temp/pyth.project/Discuz/logs/")
+
+        log_path = os.path.dirname(os.path.abspath('.'))+'/logs/'
+
+
+        # dir = os.path.dirname(os.path.abspath(__file__))
+        # log_path = os.path.join(dir, "/temp/pyth.project/Discuz/logs/")
         log_name = log_path + rq + '.log'
 
 
