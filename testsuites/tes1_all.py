@@ -17,11 +17,10 @@ import  time
 
 
 
-
 now = time.strftime('%Y%m%d%H%M',time.localtime(time.time()))
 # dir = os.path.dirname(os.path.abspath(__file__))
 # # reporter_path = os.path.join(dir, "reporter/")
-reporter_path =os.path.dirname(os.path.abspath('.'))+'reporter'
+reporter_path =os.path.dirname(os.path.abspath('.'))+'/reporter/'
 if not os.path.exists(reporter_path):os.mkdir(reporter_path)
 #设置报告格式
 reporter_name = reporter_path + now+ '_result.html'
