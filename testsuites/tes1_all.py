@@ -4,14 +4,12 @@ curpath = os.path.abspath(os.path.dirname(__file__))
 rootpath = os.path.split(curpath)[0]
 sys.path.append(rootpath)
 
-
 import unittest
-
 import HTMLTestRunner
-from testsuites.test_yongli1 import Test_yongli1
-from testsuites.test_yongli2 import Test_yongli2
-from testsuites.test_yongli3 import Test_yongli3
-from testsuites.test_yongli4 import Test_yongli4
+# from testsuites.test_yongli1 import Test_yongli1
+# from testsuites.test_yongli2 import Test_yongli2
+# from testsuites.test_yongli3 import Test_yongli3
+# from testsuites.test_yongli4 import Test_yongli4
 import  time
 
 

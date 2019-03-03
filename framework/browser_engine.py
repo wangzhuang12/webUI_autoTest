@@ -4,7 +4,6 @@ from selenium import webdriver
 from framework.logger import Logger
 
 logger = Logger(logger = 'BrowserEngine').getlog()
-
 class BrowserEngine(object):
 
     #获得浏览器路径
@@ -38,6 +37,7 @@ class BrowserEngine(object):
         elif browser == "IE":
             driver = webdriver.Ie(self.ie_driver_path)
             logger.info("Start IE browser.")
+
 
 
         driver.get(url)

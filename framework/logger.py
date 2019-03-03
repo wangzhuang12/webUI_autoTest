@@ -12,7 +12,6 @@ class Logger(object):
 
         #设置文件名字，创建一个handler，用于写入文件
         rq = time.strftime('%Y%m%d%H%M',time.localtime(time.time()))
-
         log_path = os.path.dirname(os.path.abspath('.'))+'/logs/'
 
 
@@ -26,7 +25,6 @@ class Logger(object):
         fh.setLevel(logging.INFO)
         # ch =logging.StreamHandler()
         # ch.setLevel(logging.INFO)
-
 
         #设置日志的格式
 
