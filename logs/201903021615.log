@@ -1,0 +1,41 @@
+2019-03-02 16:15:30,136 -BrowserEngine -INFO -you had select Chrome browser
+2019-03-02 16:15:30,136 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-03-02 16:15:32,398 -BrowserEngine -INFO -Start Chrome browser.
+2019-03-02 16:15:33,795 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-03-02 16:15:34,928 -BrowserEngine -INFO -Maximise the current window.
+2019-03-02 16:15:34,928 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-03-02 16:15:35,063 -Basepage -INFO -输入内容admin
+2019-03-02 16:15:35,402 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 16:15:35,512 -Basepage -INFO -输入内容123456
+2019-03-02 16:15:35,846 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 16:15:35,960 -Basepage -INFO -The element 登录 was clicked .
+2019-03-02 16:15:37,746 -Basepage -INFO -The element  was clicked .
+2019-03-02 16:15:38,290 -Basepage -INFO -The element 删除 was clicked .
+2019-03-02 16:15:41,428 -Basepage -INFO -The element 管理中心 was clicked .
+2019-03-02 16:15:41,434 -Basepage -INFO -successful to switch .
+2019-03-02 16:15:41,439 -Basepage -INFO -successful to switch .
+2019-03-02 16:15:42,572 -Basepage -INFO -输入内容123456
+2019-03-02 16:15:42,882 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 16:16:18,716 -Basepage -INFO -The element 论坛 was clicked .
+2019-03-02 16:16:20,779 -Basepage -INFO -switch main window
+2019-03-02 16:16:21,002 -Basepage -INFO -The element 添加新版块 was clicked .
+2019-03-02 16:16:21,079 -Basepage -INFO -Clear text in input boxbefore typing.
+2019-03-02 16:16:21,425 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 16:16:21,552 -Basepage -INFO -输入内容默认板块
+2019-03-02 16:16:21,882 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 16:16:22,246 -Basepage -INFO -successful to switch .
+2019-03-02 16:16:22,309 -Basepage -INFO -Closing and quiting browser
+2019-03-02 16:16:24,313 -Basepage -INFO -successful to switch .
+2019-03-02 16:16:27,085 -Basepage -INFO -输入内容wzz
+2019-03-02 16:16:27,413 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 16:16:27,516 -Basepage -INFO -输入内容123456
+2019-03-02 16:16:27,831 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 16:16:27,934 -Basepage -INFO -The element 登录 was clicked .
+2019-03-02 16:16:28,524 -Basepage -INFO -successful to switch .
+2019-03-02 16:16:28,618 -Basepage -INFO -输入内容死神
+2019-03-02 16:16:28,973 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 16:16:29,142 -Basepage -INFO -输入内容123456789123456789
+2019-03-02 16:16:29,551 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 16:16:45,945 -Basepage -INFO -The element  was clicked .
+2019-03-02 16:16:46,187 -Basepage -INFO -输入内容hhhhhffffffff
+2019-03-02 16:16:46,514 -Basepage -INFO -Had take screenshot and save to folder :/screenshots

@@ -1,0 +1,22 @@
+2019-03-02 20:07:12,982 -BrowserEngine -INFO -you had select Chrome browser
+2019-03-02 20:07:12,982 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-03-02 20:07:15,238 -BrowserEngine -INFO -Start Chrome browser.
+2019-03-02 20:07:16,807 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-03-02 20:07:17,922 -BrowserEngine -INFO -Maximise the current window.
+2019-03-02 20:07:17,923 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-03-02 20:07:18,046 -Basepage -INFO -输入内容wzz
+2019-03-02 20:07:18,399 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 20:07:18,513 -Basepage -INFO -输入内容123456
+2019-03-02 20:07:18,692 -Basepage -ERROR -Failed to take screenshot! 'NoneType' object has no attribute 'encode'
+2019-03-02 20:07:18,694 -Basepage -ERROR -找不到页面元素
+2019-03-02 20:07:18,699 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-02 20:07:18,701 -Basepage -ERROR -找不到页面元素
+2019-03-02 20:07:18,704 -Basepage -ERROR -Failed to take screenshot! Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+

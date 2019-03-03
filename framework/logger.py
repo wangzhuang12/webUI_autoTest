@@ -12,10 +12,14 @@ class Logger(object):
 
         #设置文件名字，创建一个handler，用于写入文件
         rq = time.strftime('%Y%m%d%H%M',time.localtime(time.time()))
-        log_path = os.path.dirname(os.path.abspath('.'))+'/logs/'
+        dir = os.path.dirname(os.path.abspath(__file__))
+        # log_path = os.path.join(dir,"/temp/pyth.project/Discuz/logs/")
+        log_path = os.path.join(dir, "/temp/pyth.project/Discuz/logs/")
         log_name = log_path + rq + '.log'
 
+
         fh = logging.FileHandler(log_name)
+        print(os.getcwd())
         fh.setLevel(logging.INFO)
         # ch =logging.StreamHandler()
         # ch.setLevel(logging.INFO)
@@ -35,5 +39,4 @@ class Logger(object):
 
     def getlog(self):
         return self.logger
-
 

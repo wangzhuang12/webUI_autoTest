@@ -1,0 +1,4 @@
+2019-03-01 17:01:13,367 -BrowserEngine -INFO -you had select Chrome browser
+2019-03-01 17:01:13,367 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-03-01 17:01:15,620 -BrowserEngine -INFO -Start Chrome browser.
+2019-03-01 17:01:17,260 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php

@@ -9,7 +9,8 @@ class BrowserEngine(object):
 
     #获得浏览器路径
     dir = os.path.dirname(os.path.abspath('.'))
-    chrome_driver_path = dir+'/tools/chromedriver.exe'
+    # chrome_driver_path = dir+'/tools/chromedriver.exe'
+    chrome_driver_path =  'D:/temp/pyth.project/Discuz/tools/chromedriver.exe'
     ie_driver_path = dir + '/tools/IEDriverServer.exe'
     firefox_driver_path = dir +'/tools/geckodriver.exe'
 
@@ -18,7 +19,8 @@ class BrowserEngine(object):
     def open_browser(self):
         config = ConfigParser()
         #读config文件
-        file_path = os.path.dirname(os.path.abspath('.')) + '/config/config.ini'
+        # file_path = os.path.dirname(os.path.abspath('.')) + '/config/config.ini'
+        file_path = 'D:/temp/pyth.project/Discuz/config/config.ini'
         config.read(file_path)
 
         browser = config.get("browserType","browserName")
@@ -36,6 +38,7 @@ class BrowserEngine(object):
         elif browser == "IE":
             driver = webdriver.Ie(self.ie_driver_path)
             logger.info("Start IE browser.")
+
 
         driver.get(url)
         logger.info("open url: % s" % url)

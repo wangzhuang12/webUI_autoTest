@@ -1,0 +1,18 @@
+2019-03-02 21:35:44,414 -BrowserEngine -INFO -you had select Chrome browser
+2019-03-02 21:35:44,414 -BrowserEngine -INFO -The test server url is: http://127.0.0.1/forum.php
+2019-03-02 21:35:46,838 -BrowserEngine -INFO -Start Chrome browser.
+2019-03-02 21:35:48,573 -BrowserEngine -INFO -open url: http://127.0.0.1/forum.php
+2019-03-02 21:35:49,691 -BrowserEngine -INFO -Maximise the current window.
+2019-03-02 21:35:49,694 -BrowserEngine -INFO -Set implicitly wait 5 seconds
+2019-03-02 21:35:49,891 -Basepage -INFO -输入内容wzz
+2019-03-02 21:35:50,228 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 21:35:50,337 -Basepage -INFO -输入内容123456
+2019-03-02 21:35:50,658 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 21:35:50,777 -Basepage -INFO -The element 登录 was clicked .
+2019-03-02 21:35:59,159 -Basepage -INFO -输入内容海贼王
+2019-03-02 21:35:59,497 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 21:35:59,590 -Basepage -INFO -switch main window
+2019-03-02 21:35:59,910 -Basepage -INFO -输入内容sssssssssssssssss
+2019-03-02 21:36:00,237 -Basepage -INFO -Had take screenshot and save to folder :/screenshots
+2019-03-02 21:36:00,241 -Basepage -INFO -successful to switch .
+2019-03-02 21:36:02,138 -Basepage -INFO -The element 发表帖子 was clicked .
